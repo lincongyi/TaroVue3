@@ -1,6 +1,15 @@
-@import '@/variable.scss';
-.test-scss{
-  color: $main-color;
+@import "@/variable.scss";
+
+.test-scss {
   font-size: $font-size;
+  color: $main-color;
   line-height: $line-height;
+}
+
+.box {
+  width: 300px;
+  height: 300px;
+  font-weight: bold;
+  border: 1px solid #ddd;
+  background-color: aqua;
 }

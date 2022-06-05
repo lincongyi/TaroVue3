@@ -2,6 +2,7 @@
   <view class="index">
     <text>{{ msg }}</text>
     <text class="test-scss">{{value}}</text>
+    <view class="box"></view>
   </view>
 </template>
 
