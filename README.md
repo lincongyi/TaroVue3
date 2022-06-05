@@ -24,14 +24,18 @@ plugins: ['@tarojs/plugin-html']
 
 ## 样式相关问题
 
-### html4
+### 浏览器默认样式
+
+Taro 提供了两种内置的浏览器默认样式，可以根据项目需要进行引入。
+
+1.html4
 
 ```
 // app.js
 import '@tarojs/taro/html.css';
 ```
 
-### html5
+2.html5
 
 ```
 // app.js
