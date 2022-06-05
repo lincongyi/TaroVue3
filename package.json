@@ -48,10 +48,11 @@
     "@tarojs/webpack-runner": "3.4.11",
     "@types/webpack-env": "^1.13.6",
     "@vue/compiler-sfc": "^3.0.0",
+    "babel-eslint": "^10.1.0",
     "babel-preset-taro": "3.4.11",
-    "eslint": "^8.12.0",
+    "eslint": "^8.17.0",
     "eslint-config-taro": "3.4.11",
-    "eslint-plugin-vue": "^8.0.0",
+    "eslint-plugin-vue": "^8.7.1",
     "stylelint": "^14.4.0",
     "vue-loader": "^16.0.0-beta.8"
   }

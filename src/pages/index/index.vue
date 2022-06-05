@@ -11,4 +11,5 @@ import './index.scss'
 
 const msg = ref('Hello world')
 const value = ref('step up 1111234')
+console.log(msg)
 </script>

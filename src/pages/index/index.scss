@@ -1,5 +1,6 @@
-@import '../../variable.scss';
+@import '@/variable.scss';
 .test-scss{
   color: $main-color;
   font-size: $font-size;
+  line-height: $line-height;
 }
